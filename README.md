@@ -22,33 +22,50 @@ ERD is a model that identifies the concepts or entities that exist in a system a
 
 Schema of Patient login, Doctor login, Receptionist login
 
+
 ![image](https://github.com/Priyaaaaanu/covid_patient_services/assets/128677864/86c4b656-0f90-4c2d-934a-1e5b4ff7180c)
+
 
 Schema of Patient Registration
 
+
 ![image](https://github.com/Priyaaaaanu/covid_patient_services/assets/128677864/0cbb399f-618e-4270-a5ff-d4d67ff4f40a)
 
+
 Schema of Functions of Receptionist
+
 
 ![image](https://github.com/Priyaaaaanu/covid_patient_services/assets/128677864/e1c945e5-dde5-475a-a9a0-59efce68fc27)
 
 
+
 The Below are some of the pictures of the look of projects.
 
+
 1) The Home page
+   
    ![image](https://github.com/Priyaaaaanu/covid_patient_services/assets/128677864/8be8e9d8-51c6-44e0-a2d9-6a9afcf35a3b)
+   
 
 2) The Login page
+
    ![image](https://github.com/Priyaaaaanu/covid_patient_services/assets/128677864/b7697c93-1a09-49fc-b640-24a6e633f540)
+   
 
 3) Allocation of service
+   
    ![image](https://github.com/Priyaaaaanu/covid_patient_services/assets/128677864/0d0e80e4-ed53-4d78-9a5d-a5e52ac33386)
+   
 
 4) Prescriptions of Medicines
+   
    ![image](https://github.com/Priyaaaaanu/covid_patient_services/assets/128677864/ef2e6f6d-44a2-475a-8796-0678f4bfefa9)
+   
 
 5) Result that can be seen about patient in database
+    
    ![image](https://github.com/Priyaaaaanu/covid_patient_services/assets/128677864/6af1cd75-2aec-44a7-abcc-00f580c13891)
+   
 
 
 CONCLUSION
